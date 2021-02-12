@@ -1,0 +1,13 @@
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\Syspro861ViewObj.exe.config
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\Syspro861ViewObj.exe
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\Syspro861ViewObj.pdb
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\dbup-core.dll
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\dbup-sqlserver.dll
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\obj\Debug\Syspro861ViewObj.csprojAssemblyReference.cache
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\obj\Debug\Syspro861ViewObj.csproj.CoreCompileInputs.cache
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\obj\Debug\Syspro861ViewObj.csproj.CopyComplete
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\obj\Debug\Syspro861ViewObj.exe
+C:\Users\sheaDeveloper\source\repos\davindersraiAtOutlook\Syspro861Views\Syspro861ViewObj\obj\Debug\Syspro861ViewObj.pdb

@@ -14,6 +14,8 @@ namespace Syspro861ViewObj
         {
             var connectionString =   "Server=(local); Database=MyApp; Trusted_connection=true";
 
+            EnsureDatabase.For.SqlDatabase(connectionString);
+
             var upgrader =
                 DeployChanges.To
                     .SqlDatabase(connectionString)

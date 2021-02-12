@@ -65,5 +65,20 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Script\Script0002-Capture61TableDef.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Script\Script0001-Start.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Script\Script0003-Capture61TableNames.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Script\Script0005-KeyFields.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Script\Script0010-CreateTheViews.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

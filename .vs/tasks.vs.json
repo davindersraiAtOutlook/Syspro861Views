@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Script001-Create",
+      "appliesTo": "Syspro861ViewObj/Scripts/Script001-Create.sql",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Script001-Create",
+      "appliesTo": "Syspro861ViewObj/Scripts/Script001-Create.sql",
+      "type": "launch"
+    }
+  ]
+}
